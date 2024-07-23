@@ -13,8 +13,7 @@ class Landing extends Component {
         <div className="row">
           <div className="col s12 center-align">
             <h4>
-              <b>Proctor </b>your online exams with{" "}
-              <span style={{ fontFamily: "monospace" }}>Procto</span> and ensure cheating free exams!
+             Ensure cheating free exams!
             </h4>
             <p className="flow-text grey-text text-darken-1">
               Create an exam, share unique code with students and monitor cheating attempts in real time from the dashboard. Its 
